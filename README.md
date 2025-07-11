@@ -1,6 +1,6 @@
 # E-Commerce Sales Dashboard 📊
 
-This is an interactive Excel dashboard that visualizes sales data across multiple dimensions including:
+This is an interactive Excel dashboard that visualizes sales data across multiple dimensions, including:
 
 - Sales Representative Performance
 - Brand and Industry Sales
@@ -13,12 +13,9 @@ This is an interactive Excel dashboard that visualizes sales data across multipl
 - Excel formulas
 
 ## 💡 Features
-- Dark themed design for modern presentation
+- Dark-themed design for modern presentation
 - Responsive to filters
 - Clean layout with cards and visuals
-
-## 📸 Screenshot
-_Add a screenshot of your dashboard here_
 
 ## 🧑‍💻 Developed By
 **Paras Chaturvedi**
